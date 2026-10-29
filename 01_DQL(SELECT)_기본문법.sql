@@ -394,7 +394,7 @@ SELECT
 -- git commit -m "작업한내용"
 -- git push origin master
 
--- git cloen url
+-- git clone url
 
 -- git pull origin master
 
